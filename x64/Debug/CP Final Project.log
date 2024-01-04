@@ -1,0 +1,11 @@
+﻿  CP Project Final.cpp
+C:\Users\Muhammad Faizan\Source\Repos\CP Project\CP Final Project\CP Final Project\CP Project Final.cpp(88,6): warning C4101: 'menuLabel': unreferenced local variable
+C:\Users\Muhammad Faizan\Source\Repos\CP Project\CP Final Project\CP Final Project\CP Project Final.cpp(199,6): warning C4101: 'back': unreferenced local variable
+C:\Users\Muhammad Faizan\Source\Repos\CP Project\CP Final Project\CP Final Project\CP Project Final.cpp(266,1): warning C4102: 'start': unreferenced label
+C:\Users\Muhammad Faizan\Source\Repos\CP Project\CP Final Project\CP Final Project\CP Project Final.cpp(261,6): warning C4101: 'start': unreferenced local variable
+C:\Users\Muhammad Faizan\Source\Repos\CP Project\CP Final Project\CP Final Project\CP Project Final.cpp(780,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Muhammad Faizan\Source\Repos\CP Project\CP Final Project\CP Final Project\CP Project Final.cpp(789,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Muhammad Faizan\Source\Repos\CP Project\CP Final Project\CP Final Project\CP Project Final.cpp(873,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Muhammad Faizan\Source\Repos\CP Project\CP Final Project\CP Final Project\CP Project Final.cpp(958,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Muhammad Faizan\Source\Repos\CP Project\CP Final Project\CP Final Project\CP Project Final.cpp(1055,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  CP Final Project.vcxproj -> C:\Users\Muhammad Faizan\Source\Repos\CP Project\CP Final Project\x64\Debug\CP Final Project.exe
